@@ -1,15 +1,12 @@
-### Hi Im Steve
-- Im a scientist for fun. Im a programmer for fun. Ask me anything about Android, Software Architecture, Physic Science any kind of Science.
-- You can find me at :
->- [Personal Github](https://github.com/stefanusayudha)
->- [Instagram](https://www.instagram.com/stefanus_ayudha/)
->- [Email](mailto:stefanus.ayudha@gmail.com)
->- [Whatsapp](https://wa.me/+6282135263752)
->- [Linkedin](https://www.linkedin.com/in/stefanus-ayudha-447a98b5/)
+### Welcome to Singularity Indonesia
+This account is collection of cool stuff from everybody. Everybody is welcome to use anything in here.
+
+>- [Author : Steve](https://github.com/stefanusayudha)
+
 
 ## Singularity Universe
 <img src="Logo%20Of%20Singularity%20Indonesia%20©2023%20Stefanus%20Ayudha.png"  width="216" height="216">
-Logo copy right ©2023 Stefanus Ayudha Junior
+Logo copy right ©2023 Stefanus Ayudha Junior (https://github.com/stefanusayudha)
 
 <!--
 **stefanusayudha/stefanusayudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
